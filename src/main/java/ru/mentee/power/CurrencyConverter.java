@@ -10,6 +10,7 @@ public class CurrencyConverter {
 
 
 
+
         //  переменные для сумм в различных валютах
 
         double rubles = 10000.0;
